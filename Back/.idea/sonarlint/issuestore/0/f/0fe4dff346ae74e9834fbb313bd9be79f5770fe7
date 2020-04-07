@@ -1,0 +1,8 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8µ§ÌÇÔ-
+]squid:UselessImportCheck
+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†—ÇÔ-
+ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(ş‘‹„8µ§ÌÇÔ-
+asquid:UselessImportCheck"8Remove this unused import 'org.hibernate.mapping.ToOne'.(ÚşÇŞøÿÿÿÿ
+[squid:UselessImportCheck	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8†—ÇÔ-
+isquid:UselessImportCheck">Remove this unused import 'javax.validation.constraints.Size'.(›«´İ8¶ÛÇÔ-

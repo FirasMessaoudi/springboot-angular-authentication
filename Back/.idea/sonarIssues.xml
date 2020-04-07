@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/TestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/DemandeCertificat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/DomaineUtilisation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/Employe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/Specification/DemandeCertificatSpecification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/model/criteria/DemandeCertificatCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/repository/DemandeCertificatRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/repository/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/JwtRequestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/JwtToken.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/JwtTokenProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/MyUserDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/UserPrincipal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/dto/LoginRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/dto/LoginResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/dto/Token.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/dto/UserProfile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/dto/UserSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/security/JwtTokenProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/security/util/CookieUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/DemandeCertificatService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/DemandeCertificatServiceImplements.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/DomaineUtilisationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/EmployeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/MovieServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/dto/DemandeCertificatDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/dto/DomaineUtilisationDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/dto/EmployeDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/mapper/CategoryMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/mapper/DemandeCertificatMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/mapper/DomainUtilisationMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/mapper/EmployeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/service/mapper/MovieMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/web/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/web/DemandeCertificatResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/web/DemandeCertificatRessource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/test/web/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/repository/UtilisateurRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/dto/LoginResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/dto/Token.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/dto/UserSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/jwt/CookieUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/jwt/JwtTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/jwt/UserPrincipal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/jwt/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/rest/AuthentificationResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/service/UserServiceImplement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/security/util/CookieUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/java/com/gfi/ance/pki/web/rest/MessageRessource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE-CLIENT/ANCE_Cloud/backend/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE/csr/src/main/java/com/ngtech/ance/CSRDecoder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/Frontend/src/app/page/organisation/views/dashbord-webmaster/csr/csr.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/Frontend/src/app/page/organisation/views/dashbord-webmaster/csr/csr.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/PkiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/batch/JobListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/Administrateur.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/Csr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/DemandeCertificat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/DemandeSSL.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/Employe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/Evenement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/TypeCertificat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/Validite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/WebMaster.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/criteria/AdministrateurCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/criteria/DemandeCertificatCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/domain/spec/DemandeCertificatSpecification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/repository/AgentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/repository/DemandeSSLRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/repository/ValiditeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/repository/WebMasterRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/scheduled/NotificationResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/security/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/CsrService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/DemandeSSLService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/ValiditeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/WebMasterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/CsrDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/DemandeCertificatDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/DemandeSSLDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/EvenementDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/TypeCertificatDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/ValiditeDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/WebMaster.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/dto/WebMasterDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/CSRDecoder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/CsrServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/DemandeCertificatServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/DemandeSSLServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/EmployeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/OrganisationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/ValiditeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/impl/WebMasterServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/mapper/DemandeSSLMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/mapper/EvenementMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/mapper/ValiditeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/service/mapper/WebMasterMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/CsrInputRessource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/CsrRessource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/CsvController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/DemandeCertificatResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/DemandeSSLResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/InvalidCsvController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/ValiditeResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/rest/WebMasterResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/java/com/gfi/ance/pki/web/upload/UploadController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/resources/templates/demande-certificat.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/ANCE_LAST_VERSION/REC_ANCE/REC_ANCE_CODE_SOURCE/src/main/resources/templates/email-template.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/MoviesApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/controller/ContactController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/dto/ContactDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/dto/mapper/ContactMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/model/Contact.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/model/WatchList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/ContactService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/MovieFavoritService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/WatchListService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/serviceImplement/ContactService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/serviceImplement/MovieFavoritService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/serviceImplement/MovieNoteService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/serviceImplement/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firas/movies-master/movies/src/main/java/tn/sesame/service/serviceImplement/WatchListService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SNIT-BE/Backup/src/main/java/com/gfi/snit/be/service/mapper/CodePostalMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
