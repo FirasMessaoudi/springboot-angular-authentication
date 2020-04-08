@@ -15,9 +15,7 @@ const URL_BASE = environment.baseUrl;
 })
 export class AuthService {
 
-  constructor(private router: Router,
-    private store: Store,
-              private  httpClient: HttpClient) { 
+  constructor(private router: Router, private store: Store,private  httpClient: HttpClient) { 
               }
   signIn(request: LoginRequest):Observable<any>{
     return this.httpClient.post<any>(URL_BASE + '/auth/login', request, {withCredentials: true});
@@ -31,8 +29,6 @@ export class AuthService {
     .pipe(
       tap(user => {
         console.log(user);
-        // this.user$.next(user);
-        // this.simpleUser = user;
       })
     );
     ;

@@ -19,10 +19,8 @@ export class Interceptor implements HttpInterceptor {
 
   intercept(request: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     const re1 = '/assets';
-
     const re2 = '/auth/logout';
     const re3 = '/auth/login';
-
     if (request.url.search(re1) === -1 
       && request.url.search(re2) === -1
       && request.url.search(re3) === -1
